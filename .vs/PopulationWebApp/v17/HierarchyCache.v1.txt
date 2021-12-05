@@ -1,0 +1,296 @@
+﻿++Solution 'PopulationWebApp' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:PopulationWebApp.sln
+++PopulationWebApp
+i:{00000000-0000-0000-0000-000000000000}:PopulationWebApp
+++Connected Services 
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:>217
+++Dependencies
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:>216
+++Properties
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\properties\
+++wwwroot
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\
+++Areas
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\areas\
+++Controllers
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\controllers\
+++CitiesController.cs
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\controllers\citiescontroller.cs
+++HomeController.cs
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\controllers\homecontroller.cs
+++Data
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\data\
+++Migrations
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\data\migrations\
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\migrations\
+++00000000000000_CreateIdentitySchema.cs
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\data\migrations\00000000000000_createidentityschema.cs
+++00000000000000_CreateIdentitySchema.Designer.cs
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\data\migrations\00000000000000_createidentityschema.designer.cs
+++ApplicationDbContextModelSnapshot.cs
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\data\migrations\applicationdbcontextmodelsnapshot.cs
+++ApplicationDbContext.cs
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\data\applicationdbcontext.cs
+++PopulationWebAppContext.cs
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\data\populationwebappcontext.cs
+++Models
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\models\
+++City.cs
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\models\city.cs
+++ErrorViewModel.cs
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\models\errorviewmodel.cs
+++Views
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\views\
+++Cities
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\views\cities\
+++Create.cshtml
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\views\cities\create.cshtml
+++Delete.cshtml
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\views\cities\delete.cshtml
+++Details.cshtml
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\views\cities\details.cshtml
+++Edit.cshtml
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\views\cities\edit.cshtml
+++Index.cshtml
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\views\cities\index.cshtml
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\views\home\index.cshtml
+++Home
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\views\home\
+++Privacy.cshtml
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\views\home\privacy.cshtml
+++Shared
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\views\shared\
+++_Layout.cshtml
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\views\shared\_layout.cshtml
+++_LoginPartial.cshtml
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\views\shared\_loginpartial.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\views\shared\error.cshtml
+++_ViewImports.cshtml
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\views\_viewstart.cshtml
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\areas\identity\pages\_viewstart.cshtml
+++appsettings.json
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\appsettings.json
+++Program.cs
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\program.cs
+++SQL Server Express LocalDB (Local) (ConnectionStrings:DefaultConnection)
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:>219
+++SQL Server Express LocalDB (Local) (ConnectionStrings:PopulationWebAppContext)
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:>941
+++Analyzers
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:analyzers
+++Frameworks
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:frameworks
+++Packages
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:packages
+++launchSettings.json
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\properties\launchsettings.json
+++serviceDependencies.json
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\properties\servicedependencies.json
+++css
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\css\
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\js\
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\
+++favicon.ico
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\favicon.ico
+++Identity
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\areas\identity\
+++20211205073835_initialsetup.cs
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\data\migrations\20211205073835_initialsetup.cs
+++PopulationWebAppContextModelSnapshot.cs
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\migrations\populationwebappcontextmodelsnapshot.cs
+++_Layout.cshtml.css
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\views\shared\_layout.cshtml.css
+++appsettings.Development.json
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\appsettings.development.json
+++MessagePackAnalyzer
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.AspNetCore.Analyzers
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\microsoft.netcore.app
+++Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore (6.0.0)
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:>237
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (6.0.0)
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:>238
+++Microsoft.AspNetCore.Identity.UI (6.0.0)
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:>240
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.0)
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:>236
+++Microsoft.EntityFrameworkCore.Tools (6.0.0)
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:>239
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.0)
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:>473
+++serviceDependencies.local.json
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\properties\servicedependencies.local.json
+++site.css
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\css\site.css
+++site.js
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\js\site.js
+++bootstrap
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\bootstrap\
+++jquery
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\jquery\
+++jquery-validation
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\jquery-validation-unobtrusive\
+++Pages
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\areas\identity\pages\
+++20211205073835_initialsetup.Designer.cs
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\data\migrations\20211205073835_initialsetup.designer.cs
+++dist
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\bootstrap\dist\
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\jquery\dist\
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\jquery\license.txt
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++jquery.js
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++ShowSearchForm.cshtml
+i:{c4302e01-3481-45c4-bb05-6e4e592b3d22}:c:\users\mary lynn\source\repos\populationwebapp\populationwebapp\views\cities\showsearchform.cshtml
